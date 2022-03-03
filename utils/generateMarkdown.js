@@ -29,10 +29,32 @@ function generateMarkdown(data) {
   ## Project Description
 
   ${data.desc}
+
+  ## Installation Instructions
+
+  ${data.instructions}
+
+  ## Usage Information
+
+  ${data.usage}
+
+  ## Contribution Guidelines
+
+  ${data.guide}
+
+  ## Test Instructions
+
+  ${data.test}
   
   ${renderLicenseSection(data.license)}
 
   ${renderLicenseBadge(data.license)}
+
+  For more work visit the link https://github.com/${data.github}
+
+  ## Questions
+
+  Send an email at ${data.email} for anu questions
 `;
 }
 
