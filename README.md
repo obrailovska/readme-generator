@@ -1,24 +1,24 @@
-# Readme Generator
+# ren-buddy
 
   ## Project Description
 
-  Readme generator
+  Run-buddy is a website that offers fitness services.
 
   ## Installation Instructions
 
-  no installation needed
+  No installation needed.
 
   ## Usage Information
 
-  inbgiag
+  
 
   ## Contribution Guidelines
 
-  ieigeq
+  
 
   ## Test Instructions
 
-  test
+  
   
   ## License
     This project is using MIT License
