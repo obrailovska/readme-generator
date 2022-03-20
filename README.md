@@ -1,8 +1,8 @@
-# ren-buddy
+# run-buddy
 
   ## Project Description
 
-  Run-buddy is a website that offers fitness services.
+  Run buddy is a website that offers fitness services.
 
   ## Installation Instructions
 
@@ -10,15 +10,15 @@
 
   ## Usage Information
 
-  
+  _
 
   ## Contribution Guidelines
 
-  
+  Made by Olha Brailovska.
 
   ## Test Instructions
 
-  
+  Test
   
   ## License
     This project is using MIT License
